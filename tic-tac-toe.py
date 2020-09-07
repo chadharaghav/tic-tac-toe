@@ -2,9 +2,6 @@ import tkinter as tk
 import random
 
 
-# to do 	
-# CHANGE TO YOU WIN / YOU LOSE
-
 BG = "black"
 FG = "white"
 FONT = ('Helvetica', 20, 'bold')
